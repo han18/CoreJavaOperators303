@@ -36,6 +36,9 @@ public class ArithmeticOperatorsDemo {
          double d2 = 12.0F / 8; // result: 1.5
          System.out.println("d1 is " + d1);
          System.out.println("d2 is " + d2);
+         System.out.println("d2 is " + d2);
+
   }
 }
 
+// checking on if github is updating the commits 
